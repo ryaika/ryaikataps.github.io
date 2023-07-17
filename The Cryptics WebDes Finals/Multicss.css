@@ -133,7 +133,7 @@ body
     border-style: solid;
     
     font-size: 25px;
-    height: 250px;
+    height: 280px;
 }
 
 .descr
@@ -149,7 +149,7 @@ body
     border-style: solid;
     
     font-size: 25px;
-    height: 250px;
+    height: 280px;
 }
 
 .descb
@@ -163,7 +163,7 @@ body
  
     border-radius: 10px;
     border-style: solid;
-    
+    height: 280px;
 
   
 }
